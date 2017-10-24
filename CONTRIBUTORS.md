@@ -16573,6 +16573,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Main Laravel & Vue Developer, working at Bulldesk
 - GitHub: [LucasLeandro1204](https://github.com/lucasleandro1204)
 
+#### Name: [Alayna](https://github.com/Destrae)
+- Place: Minnesota, USA
+- Bio: System Administrator
+- GitHub: [Destrae](https://github.com/Destrae)
+
 #### Name: [Vishal Prakash](https://github.com/vish21)
 - Place: Mumbai, India
 - Bio: Software Developer
